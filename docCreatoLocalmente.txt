@@ -1,2 +1,3 @@
 testo base prima versione
 prima modifica locale
+seconda modifica locale durante il branch testing
